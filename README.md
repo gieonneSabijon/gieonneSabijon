@@ -9,7 +9,7 @@ Hey, my name is Gieonne Sabijon. I'm currently a university student studying at 
  - Coding
  - Art
  - Games
- 
+ - Graphic Design
  
 
 > **Current Languages**

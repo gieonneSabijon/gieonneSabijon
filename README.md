@@ -1,5 +1,4 @@
 # About-Me
-> **About Me**
 
 Hey, my name is Gieonne Sabijon. I'm currently a university student studying at Ontario Tech University. 
 

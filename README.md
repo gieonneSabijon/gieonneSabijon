@@ -17,6 +17,6 @@ Hey, my name is Gieonne Sabijon. I'm currently a university student studying at 
  - Python
  - Java
  - C++
- - Learning C#
+ - C#
  - JS
  - 

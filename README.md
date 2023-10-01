@@ -13,6 +13,7 @@ Hey, my name is Gieonne Sabijon. I'm currently a university student studying at 
  - Algorithm
  - Data Science
  - Web Scraping
+ - Web Development
  
 
 > **Familliar Languages and Libraries**

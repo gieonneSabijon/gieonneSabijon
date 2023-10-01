@@ -8,15 +8,26 @@ Hey, my name is Gieonne Sabijon. I'm currently a university student studying at 
 
  - Coding
  - Art
- - Games
+ - Game Development
  - Graphic Design
+ - Algorithm
+ - Data Science
+ - Web Scraping
  
 
-> **Current Languages**
+> **Familliar Languages and Libraries**
 
  - Python
- - Java
+    - Pygame
+    - Numpy
+    - matplotlib
+    - Flask
+    - SciPy
+    - Pandas
+    - Beautiful Soup
+ - Java   
  - C++
  - C#
+    - Unity Engine  
  - JS
- - 
+ - HTML

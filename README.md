@@ -31,4 +31,6 @@ Hey, my name is Gieonne Sabijon. I'm currently a university student studying at 
  - C#
     - Unity Engine  
  - JS
+ - CSS
  - HTML
+ - SQL

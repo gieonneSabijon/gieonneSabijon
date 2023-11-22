@@ -2,7 +2,7 @@
 
 ![alt text](https://raw.githubusercontent.com/gieonneSabijon/gieonneSabijon/main/gieonneSabijonAboutMeBanner.jpg)
 
-Hey, my name is Gieonne Sabijon. I'm currently a university student studying at Ontario Tech University. 
+Hey, my name is Gieonne Sabijon. I'm a university student studying Computer Science at Ontario Tech University. 
 
 > **Passions**
 
